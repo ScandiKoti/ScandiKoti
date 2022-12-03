@@ -2,7 +2,6 @@
 - <img src="https://media.giphy.com/media/KeQJaXuGvio5yrBWka/giphy.gif" width="50%" height="50%"/>
 - 🌱 I’m currently learning <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="5%" height="5%"/> & SQL Hyperskill.org
 - 📫 How to reach me: 
-- +7(921)9410840
 - https://www.instagram.com/scandi.koti/
 - https://vk.com/nik_78
 - https://discordapp.com/users/801493461387313243/
