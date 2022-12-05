@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScandiKotik
 - <img src="https://media.giphy.com/media/KeQJaXuGvio5yrBWka/giphy.gif" width="50%" height="50%"/>
-- 🌱 I’m currently learning <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="5%" height="5%"/> & SQL on Hyperskill.org
+- 🌱 I’m currently learning <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="5%" height="5%"/> & SQL at Hyperskill.org
 - 📫 How to reach me: 
 - https://www.instagram.com/scandi.koti/
 - https://vk.com/nik_78
